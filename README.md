@@ -21,4 +21,6 @@ This is an easy start pack of React JS
 
 > npm install
 
+> npm install babel-core
+
 > npm start
